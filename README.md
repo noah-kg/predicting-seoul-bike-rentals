@@ -11,4 +11,7 @@ In this project I will analyze data related to bike rentals in Seoul, South Kore
 * Clean and analyze the data, and create any new or helpful features
 * Visualize any interesting patterns or relationships
 * Find out what has the biggest effect on bike rentals
-* Test several regression models to see which one is the best at predicting the amount of bikes rented.
+* Train three different machine learning models 
+* Evaluate them to see which one is the best at predicting the amount of bikes rented
+
+To view the notebook, click on the .ipynb file above, or view it [here](https://nbviewer.org/github/noah-kg/predicting-seoul-bike-rentals/blob/main/Seoul%20Bike%20Rentals.ipynb).
